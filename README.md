@@ -15,7 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kursatbb&show_icons=true&locale=en&layout=compact" alt="kursatbb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kursatbb&show_icons=true&locale=en" alt="kursatbb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursatbb&" alt="kursatbb" /></p>
 
