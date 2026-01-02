@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kürşat</h1>
-<h3 align="center">A Cyber Security Specialist Assistant(Network and System Security)</h3>
+<h3 align="center">A Cyber Security Specialist(Network and System Security)</h3>
 
 Hi I'm Kürşat and im working on cyber security since December 2023. I am curious about learning information that I do not know in the cybersecurity industry. And here you will find my tools that i did when searching something or doing job.These tools are never enough for me, now or later. So i will do more of these to feed my information and automation starvation. Follow me
 - I’m currently working on my own project -> ...its a secret .
